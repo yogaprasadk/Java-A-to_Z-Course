@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Thanks++To+Kunal+Bhaiya+for+Java)](https://git.io/typing-svg)
-
 <h3>Best Data Structures & Algorithms (DSA) Course - Clear Any FAANG Interview!<h3>
 <a href="https://youtu.be/rZ41y93P2Qo?feature=shared"><img src="https://github.com/user-attachments/assets/ed7d96ac-0019-42d9-a080-78ad3175b0f0"/></a>
 <br/>
@@ -39,3 +37,6 @@
 <h3>Introduction to Arrays and ArrayList in Java</h3>
 <a href="https://youtu.be/n60Dn0UsbEk?feature=shared"><img src="https://github.com/user-attachments/assets/78bdcf63-129c-4d8d-8028-4c84f9e257bb"</a>
 <br/>
+
+<h3>Java Collections and Frameworks in 1 video</h3>
+<a href="https://youtu.be/rzA7UJ-hQn4?si=uZPZuz-IVlhBvODG"><img src="https://github.com/user-attachments/assets/ebe3142f-8db3-411d-9b97-565157bb8953"/></a>
