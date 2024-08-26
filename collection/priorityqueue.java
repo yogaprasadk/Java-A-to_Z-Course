@@ -2,7 +2,7 @@ import java.util.*;
 public class priorityqueue {
     public static void main(String[] args){
         PriorityQueue<Integer> n = new PriorityQueue<>();
-        //add element in priority queue
+        //add element in priority queue method(offer)
         n.offer(556);
         n.offer(344);
         n.offer(32);
