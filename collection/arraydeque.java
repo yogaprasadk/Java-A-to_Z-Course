@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.ArrayDeque;
 public class arraydeque
 {
     public static void main(String[] args)
