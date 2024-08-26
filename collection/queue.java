@@ -1,5 +1,6 @@
 import java.util.LinkedList;
 import java.util.Queue;
+import java.util.comparator;
 public class queue {
     public static void main(String[] args){
         Queue<Integer> l = new LinkedList<>();
